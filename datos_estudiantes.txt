@@ -1,0 +1,4 @@
+--- REPORTE DE GESTIÓN ACADÉMICA ---
+ID         | Nombre               | Promedio   | Materias
+------------------------------------------------------------
+1          | osvaldo gonzalez     | 5.00       | programacion
